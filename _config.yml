@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+locale: "en-US"
+title: "CLIR Webinar"
+author: ""
+exclude: 
+    - _includes/page-footer.html

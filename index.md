@@ -12,6 +12,8 @@ Schedule | Description
 5 - 6    | Workshop:
 7 - 8    | Cocktail party
 
+# Registration
+
 # Contact
 
 Please contact us via email: TBD
@@ -22,4 +24,4 @@ TBD
 
 # Sponsor  
 
-[![](https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2017/10/CLIR_red_w_wordmark.png)](https://www.clir.org)
+[![](https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2017/10/CLIR_red_w_wordmark.png)](https://www.clir.org =50x)

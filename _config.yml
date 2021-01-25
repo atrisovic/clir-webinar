@@ -3,3 +3,4 @@ locale: "en-US"
 title: "Toward open, reproducible and reusable research" 
 description: "CLIR Webinar" 
 show_downloads: "true"
+github: [metadata]

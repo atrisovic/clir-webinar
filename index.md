@@ -24,7 +24,9 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   </tr>
   <tr>
     <td>13:10 - 13:50</td>
-    <td>Keynote: Computational Reproducibility vs. Transparency: Is it FAIR enough?<br><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a></td>
+    <td>Keynote: Computational Reproducibility vs. Transparency: Is it FAIR enough?<br>
+    <a href="keynote">Abstract</a><br>
+    <a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a></td>
   </tr>
   <tr>
     <td>13:50 - 14:20</td>

@@ -30,7 +30,7 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   </tr>
   <tr>
     <td>13:50 - 14:20</td>
-    <td>Research data services at CERN<br>Diego R. Rodriguez </td>
+    <td>Open and reproducible research services in LHC particle physics<br><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a></td>
   </tr>
   <tr>
     <td>14:20 - 14:50</td>

@@ -20,21 +20,26 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
 <tbody>
   <tr>
     <td>13:00 - 13:10</td>
-    <td>Introduction & welcome</td>
+    <td>Welcome</td>
   </tr>
   <tr>
     <td>13:10 - 13:50</td>
     <td>Keynote: Computational Reproducibility vs. Transparency: Is it FAIR enough?<br>
-    <a href="keynote">Abstract</a><br>
-    <a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a></td>
+    <a href="keynote"><b>Abstract</b></a><br>
+    <i><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a>,<br> 
+    School of Information Sciences at the University of Illinois at Urbana-Champaign</i></td>
   </tr>
   <tr>
     <td>13:50 - 14:20</td>
-    <td>Open and reproducible research services in LHC particle physics<br><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a></td>
+    <td>Supporting Computational Reproducibility: Updates on CoRe2 Development and AJPS Verification Policy Implementation<br>
+    <i><a href="https://odum.unc.edu/people/gooch/">Mandy Gooch</a>, <br>
+    Odum Institute at the University of North Carolina at Chapel Hill</i></td>
   </tr>
   <tr>
     <td>14:20 - 14:50</td>
-    <td>Keep your code working: Principles from Google<br><a href="https://www.oreilly.com/pub/au/7953">Titus Winters</a></td>
+    <td>Open and reproducible research services in LHC particle physics<br>
+    <i><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a>, <br>
+    The European Organization for Nuclear Research, CERN</i></td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:center"><b>Coffee break</b></td>
@@ -43,21 +48,28 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
     <td colspan="2" style="text-align:center"><b>Session 2</b></td>
   </tr>
   <tr>
-    <td>15:00 - 15:15</td>
-    <td>Data services at Harvard<br><a href="https://hlrdm.library.harvard.edu/people/katie-mika">Katie Mika</a></td>
+    <td>15:00 - 15:30</td>
+    <td>Keep your code working: Principles from Google<br>
+    <i><a href="https://www.oreilly.com/pub/au/7953">Titus Winters</a>, <br>
+    Google</i></td>
   </tr>
   <tr>
-    <td>15:15 - 15:30</td>
-    <td>Supporting Computational Reproducibility: Updates on CoRe2 Development and AJPS Verification Policy Implementation<br><a href="https://odum.unc.edu/people/gooch/">Mandy Gooch</a>  
-    </td>
+    <td>15:30 - 15:45</td>
+    <td>Data services at Harvard<br>
+    <i><a href="https://hlrdm.library.harvard.edu/people/katie-mika">Katie Mika</a>, <br>
+    Harvard University</i></td>
   </tr>
   <tr>
-    <td>15:30 - 16:00</td>
-    <td>HPC-driven computational reproducibility: a use case study of Einstein Toolkit in numerical relativity and astrophysics<br><a href="https://uwaterloo.ca/library/about/people/qian-zhang">Qian Zhang</a></td>
+    <td>15:45 - 16:00</td>
+    <td>HPC-driven computational reproducibility: a use case study of Einstein Toolkit in numerical relativity and astrophysics<br>
+    <i><a href="https://uwaterloo.ca/library/about/people/qian-zhang">Qian Zhang</a>, <br>
+    University of Waterloo</i></td>
   </tr>
   <tr>
     <td>16:00 - 16:20</td>
-    <td>TBD<br><a href="https://projects.iq.harvard.edu/atrisovic">Ana Trisovic</a></td>
+    <td>TBD<br>
+    <i><a href="https://projects.iq.harvard.edu/atrisovic">Ana Trisovic</a>, <br>
+    Harvard University</i></td>
   </tr>
   <tr>
     <td>16:20 - 16:30</td>

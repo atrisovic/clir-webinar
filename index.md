@@ -9,7 +9,7 @@ This is a free event but the registration is required. Please click [here](https
 
 # Program 
 
-The webinar will take place on <b>Wednesday, February 10, 2021</b>.<br>
+The webinar will take place on Wednesday, February 10, 2021.<br>
 All times Eastern Daylight Time (EDT) (UTC−04:00)
 
 <table id="table1">
@@ -27,21 +27,21 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
     <td>13:10 - 13:50</td>
     <td>
         Keynote: <a href="keynote">Computational Reproducibility vs. Transparency: Is it FAIR enough?</a><br>
-        <small><i><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a>, School of Information Sciences at the University of Illinois at Urbana-Champaign</i></small>
+        <small><i><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a>, School of Information Sciences, University of Illinois at Urbana-Champaign</i></small>
     </td>
   </tr>
   <tr>
     <td>13:50 - 14:20</td>
     <td>
         Supporting Computational Reproducibility: Updates on CoRe2 Development and AJPS Verification Policy Implementation<br>
-        <small><i><a href="https://odum.unc.edu/people/gooch/">Mandy Gooch</a>, Odum Institute at the University of North Carolina at Chapel Hill</i></small>
+        <small><i><a href="https://odum.unc.edu/people/gooch/">Mandy Gooch</a>, Odum Institute, University of North Carolina at Chapel Hill</i></small>
     </td>
   </tr>
   <tr>
     <td>14:20 - 14:50</td>
     <td>
         Open and reproducible research services in LHC particle physics<br>
-        <small><i><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a>,    The European Organization for Nuclear Research (CERN)</i></small>
+        <small><i><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a>, European Organization for Nuclear Research (CERN)</i></small>
     </td>
   </tr>
   <tr>

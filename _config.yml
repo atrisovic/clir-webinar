@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 locale: "en-US"
-title: "Toward open, reproducible and reusable research" 
-description: "CLIR Webinar" 
+title: "" 
+description: "CLIR Webinar: Toward open, reproducible and reusable research" 
 show_downloads: "true"
 github: [metadata]

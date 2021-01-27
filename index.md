@@ -55,21 +55,21 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   </tr>
   <tr>
     <td>15:30 - 15:45</td>
-    <td>Data services at Harvard<br>
+    <td>Graduate Students’ Attitudes Toward Data Sharing and Reproducibility<br>
     <i><a href="https://hlrdm.library.harvard.edu/people/katie-mika">Katie Mika</a>, <br>
-    Harvard University</i></td>
+    Harvard Library & the Institute for Quantitative Social Science, Harvard University</i></td>
   </tr>
   <tr>
     <td>15:45 - 16:00</td>
     <td>HPC-driven computational reproducibility: a use case study of Einstein Toolkit in numerical relativity and astrophysics<br>
     <i><a href="https://engagedri.ca/about-engage-dri/team/qian-zhang-senior-analyst-for-research-software-rs">Qian Zhang</a>, <br>
-    University of Waterloo; Digital Research Infrastructure Organization (NDRIO) </i></td>
+    University of Waterloo & Digital Research Infrastructure Organization (NDRIO)</i></td>
   </tr>
   <tr>
     <td>16:00 - 16:20</td>
     <td>TBD<br>
     <i><a href="https://projects.iq.harvard.edu/atrisovic">Ana Trisovic</a>, <br>
-    Harvard University</i></td>
+    Institute for Quantitative Social Science, Harvard University</i></td>
   </tr>
   <tr>
     <td>16:20 - 16:30</td>

@@ -62,8 +62,8 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   <tr>
     <td>15:45 - 16:00</td>
     <td>HPC-driven computational reproducibility: a use case study of Einstein Toolkit in numerical relativity and astrophysics<br>
-    <i><a href="https://uwaterloo.ca/library/about/people/qian-zhang">Qian Zhang</a>, <br>
-    University of Waterloo</i></td>
+    <i><a href="https://engagedri.ca/about-engage-dri/team/qian-zhang-senior-analyst-for-research-software-rs">Qian Zhang</a>, <br>
+    University of Waterloo; Digital Research Infrastructure Organization (NDRIO) </i></td>
   </tr>
   <tr>
     <td>16:00 - 16:20</td>

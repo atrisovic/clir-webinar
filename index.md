@@ -5,7 +5,7 @@ Open, reproducible, and reliable research is critical for the scientific process
 The primary audience for this webinar is data scientists, researchers, data curators, managers of digital libraries and repositories. However, anyone interested in reusable research or computational reproducibility is welcome to join.
 
 # Registration
-This is a free event but the registration is required. Please click [here](https://docs.google.com/forms/d/1u2QYQo7zRlM1mm7w8sIRJC2hZnRZoIH00luIA3XjiPE/prefill) to register for the event.
+This is a free event but the registration is required. Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSdoiklA15EKuZJHy9yf668dXnmtNlK4lgDZIV8hEirkTUVXeg/viewform) to register for the event.
 
 # Program 
 
@@ -96,4 +96,5 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
 Please contact us via email at: anatrisovic [at] g.harvard.edu
 
 # Sponsor  
+This event is made possible with the support of the Council on Library and Information Resources (CLIR) and with the support of the Alfred P. Sloan Foundation.
 <p style="text-align:center;"><img src="https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2017/10/CLIR_red_w_wordmark.png" alt="https://www.clir.org" width="300"></p>

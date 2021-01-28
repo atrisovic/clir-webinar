@@ -4,3 +4,5 @@ title: ""
 description: "CLIR Webinar: Toward open, reproducible and reusable research" 
 show_downloads: "true"
 github: [metadata]
+plugins:
+    - jekyll-seo-tag

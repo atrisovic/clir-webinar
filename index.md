@@ -5,7 +5,11 @@ Open, reproducible, and reliable research is critical for the scientific process
 The primary audience for this webinar is data scientists, researchers, data curators, managers of digital libraries and repositories. However, anyone interested in reusable research or computational reproducibility is welcome to join.
 
 # Registration
-This is a free event but the registration is required. Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSdoiklA15EKuZJHy9yf668dXnmtNlK4lgDZIV8hEirkTUVXeg/viewform) to register for the event.
+This is a free event, but registration is required. 
+
+- Please click [here](https://clirdlf.zoom.us/webinar/register/5016118615226/WN_kt9FzJKCQguURSlDgTNKTQ) to register for the webinar.
+- Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSdoiklA15EKuZJHy9yf668dXnmtNlK4lgDZIV8hEirkTUVXeg/viewform) to register for the Virtual Cocktail Party after the webinar.
+
 
 # Program 
 

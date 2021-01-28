@@ -1,5 +1,5 @@
 
-# Keynote: Computational Reproducibility vs Transparency: Is it FAIR enough?
+# Keynote: Computational Reproducibility vs. Transparency: Is It FAIR Enough?
 
 ## Abstract
 

@@ -26,7 +26,7 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   <tr>
     <td>13:10 - 13:50</td>
     <td>
-        Keynote: <a href="keynote">Computational Reproducibility vs. Transparency: Is It Fair Enough?</a><br>
+        Keynote: <a href="keynote">Computational Reproducibility vs. Transparency: Is It FAIR Enough?</a><br>
         <small><i><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a>, School of Information Sciences, University of Illinois at Urbana-Champaign</i></small>
     </td>
   </tr>

@@ -26,7 +26,7 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   <tr>
     <td>13:10 - 13:50</td>
     <td>
-        Keynote: <a href="keynote">Computational Reproducibility vs. Transparency: Is it FAIR enough?</a><br>
+        Keynote: <a href="keynote">Computational Reproducibility vs. Transparency: Is It Fair Enough?</a><br>
         <small><i><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a>, School of Information Sciences, University of Illinois at Urbana-Champaign</i></small>
     </td>
   </tr>
@@ -40,14 +40,14 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   <tr>
     <td>14:20 - 14:50</td>
     <td>
-        Open and reproducible research services in LHC particle physics<br>
+        Open and Reproducible Research Services in LHC Particle Physics<br>
         <small><i><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a>, European Organization for Nuclear Research (CERN)</i></small>
     </td>
   </tr>
   <tr>
     <td>14:50 - 15:00</td>
     <td>
-        Coffee break
+        Coffee Break
     </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   <tr>
     <td>15:00 - 15:30</td>
     <td>
-        Keep your code working: Principles from Google<br>
+        Keep Your Code Working: Principles From Google<br>
         <small><i><a href="https://www.oreilly.com/pub/au/7953">Titus Winters</a>, Google</i></small>
     </td>
   </tr>
@@ -71,24 +71,24 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
   <tr>
     <td>15:55 - 16:20</td>
     <td>
-        HPC-driven computational reproducibility: a use case study of Einstein Toolkit in numerical relativity and astrophysics<br>
+        HPC-Driven Computational Reproducibility: A Use Case Study of Einstein Toolkit in Numerical Relativity and Astrophysics<br>
         <small><i><a href="https://engagedri.ca/about-engage-dri/team/qian-zhang-senior-analyst-for-research-software-rs">Qian Zhang</a>, University of Waterloo & Digital Research Infrastructure Organization (NDRIO)</i></small>
     </td>
   </tr>
   <tr>
     <td>16:20 - 16:45</td>
     <td>
-        Repository approaches to improving quality of shared data and code<br>
+        Repository Approaches to Improving Quality of Shared Data and Code<br>
         <small><i><a href="https://projects.iq.harvard.edu/atrisovic">Ana Trisovic</a>, Institute for Quantitative Social Science, Harvard University</i></small>
     </td>
   </tr>
   <tr>
     <td>16:45 - 17:00</td>
-    <td>Closing remarks and open discussion</td>
+    <td>Closing Remarks and Open Discussion</td>
   </tr>
   <tr>
     <td>17:00 - 19:00</td>
-    <td>Virtual cocktail party</td>
+    <td>Virtual Cocktail Party</td>
   </tr>
 </tbody>
 </table>

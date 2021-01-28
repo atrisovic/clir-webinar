@@ -9,7 +9,7 @@ This is a free event but the registration is required. Please click [here](https
 
 # Program 
 
-The webinar will take place on Wednesday, February 10, 2021.<br>
+The webinar will take place on Wednesday, February 10, 2021 on [Zoom](https://zoom.us/download).<br>
 All times Eastern Daylight Time (EDT) (UTC−04:00)
 
 <table id="table1">
@@ -45,7 +45,10 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align:center">Coffee break</td>
+    <td>14:50 - 15:00</td>
+    <td>
+        Coffee break
+    </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align:center"><b>Session 2</b></td>
@@ -93,8 +96,17 @@ All times Eastern Daylight Time (EDT) (UTC−04:00)
 
 # Contact
 
-Please contact us via email at: anatrisovic [at] g.harvard.edu
+For any questions, please contact <a href="mailto:anatrisovic@g.harvard.edu">Ana Trisovic</a> or <a href="mailto:zhangqian06@gmail.com">Qian Zhang</a>.
 
-# Sponsor  
-This event is made possible with the support of the Council on Library and Information Resources (CLIR) and with the support of the Alfred P. Sloan Foundation.
-<p style="text-align:center;"><img src="https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2017/10/CLIR_red_w_wordmark.png" alt="https://www.clir.org" width="300"></p>
+# Acknowledgements  
+
+This event is made possible with the support of the [Council on Library and Information Resources (CLIR)](https://www.clir.org) and with the support of the Alfred P. Sloan Foundation.
+
+<table id="wrapper" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="width:50%;">
+        <img src="https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2017/10/CLIR_red_w_wordmark.png" alt="https://www.clir.org" style="width:50%"></td>
+    <td style="width:50%;">
+        <img src="https://sloan.org/storage/app/media/uploaded-files/Logo-2B-SMALL-Gold-Blue.png" alt="sloan.org" style="width:70%"></td>
+  </tr>
+</table>

@@ -14,7 +14,7 @@ This is a free event, but registration is required.
 # Program 
 
 The webinar will take place on Wednesday, February 10, 2021 on [Zoom](https://zoom.us/download).<br>
-All times Eastern Daylight Time (EDT) (UTC−04:00)
+All times Eastern Standard Time (EST) (UTC−05:00)
 
 <table id="table1">
 <thead>

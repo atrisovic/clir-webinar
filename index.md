@@ -97,6 +97,11 @@ All times Eastern Standard Time (EST) (UTC−05:00)
 </tbody>
 </table>
 
+# Platform
+
+The webinar will be hosted on [Zoom](https://zoom.us/download). If you don’t already have it installed, you can download it [here](https://zoom.us/download).
+
+Check out our custom Zoom backgrounds: [default](imgs/zoom-bg-default.png), [inverted colors](imgs/zoom-bg-inverted.png), [sponged](imgs/zoom-bg-default-artsy1.png), [painted](imgs/zoom-bg-default-artsy2.png), [pink](imgs/zoom-bg-inverted-artsy.png), [crosshatch](imgs/zoom-bg-default-artsy3.png).
 
 # Contact
 

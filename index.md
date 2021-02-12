@@ -30,8 +30,15 @@ All times Eastern Standard Time (EST) (UTC−05:00)
   <tr>
     <td>13:10 - 13:50</td>
     <td>
-        Keynote: <a href="keynote">Computational Reproducibility vs. Transparency: Is It FAIR Enough?</a><br>
+        Keynote: Computational Reproducibility vs. Transparency: Is It FAIR Enough?<br>
         <small><i><a href="https://ischool.illinois.edu/people/bertram-ludascher">Bertram Ludäscher</a>, School of Information Sciences, University of Illinois at Urbana-Champaign</i></small>
+        <div><table class="rec" style="width:60%">
+          <tr>
+            <td width="20%"><a href="keynote">Abstract</a></td>
+            <td width="20%"><a href="slides/bludaescher.pdf">Slides</a></td>
+            <td width="20%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -39,6 +46,12 @@ All times Eastern Standard Time (EST) (UTC−05:00)
     <td>
         Supporting Computational Reproducibility: Updates on CoRe2 Development and AJPS Verification Policy Implementation<br>
         <small><i><a href="https://odum.unc.edu/people/gooch/">Mandy Gooch</a>, Odum Institute, University of North Carolina at Chapel Hill</i></small>
+        <div><table class="rec" style="width:50%">
+          <tr>
+            <td width="25%"><a href="slides/mgooch.pdf">Slides</a></td>
+            <td width="25%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -46,6 +59,12 @@ All times Eastern Standard Time (EST) (UTC−05:00)
     <td>
         Open and Reproducible Research Services in LHC Particle Physics<br>
         <small><i><a href="https://orcid.org/0000-0003-0649-2002">Diego R. Rodriguez</a>, European Organization for Nuclear Research (CERN)</i></small>
+        <div><table class="rec" style="width:50%">
+          <tr>
+            <td width="25%"><a href="slides/drodriguez.pdf">Slides</a></td>
+            <td width="25%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -62,6 +81,12 @@ All times Eastern Standard Time (EST) (UTC−05:00)
     <td>
         Keep Your Code Working: Principles From Google<br>
         <small><i><a href="https://www.oreilly.com/pub/au/7953">Titus Winters</a>, Google</i></small>
+        <div><table class="rec" style="width:50%">
+          <tr>
+            <td width="25%">Slides</td>
+            <td width="25%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -70,6 +95,12 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         Graduate Students’ Attitudes Toward Data Sharing and Reproducibility<br>
         <small><i><a href="https://hlrdm.library.harvard.edu/people/katie-mika">Katie Mika</a>,
         Harvard Library & the Institute for Quantitative Social Science, Harvard University</i></small>
+        <div><table class="rec" style="width:50%">
+          <tr>
+            <td width="25%">Slides</td>
+            <td width="25%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -77,6 +108,12 @@ All times Eastern Standard Time (EST) (UTC−05:00)
     <td>
         HPC-Driven Computational Reproducibility: A Use Case Study of Einstein Toolkit in Numerical Relativity and Astrophysics<br>
         <small><i><a href="https://engagedri.ca/about-engage-dri/team/qian-zhang-senior-analyst-for-research-software-rs">Qian Zhang</a>, University of Waterloo & Digital Research Infrastructure Organization (NDRIO)</i></small>
+        <div><table class="rec" style="width:50%">
+          <tr>
+            <td width="25%"><a href="">Slides</a></td>
+            <td width="25%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -84,6 +121,13 @@ All times Eastern Standard Time (EST) (UTC−05:00)
     <td>
         Repository Approaches to Improving Quality of Shared Data and Code<br>
         <small><i><a href="https://projects.iq.harvard.edu/atrisovic">Ana Trisovic</a>, Institute for Quantitative Social Science, Harvard University</i></small>
+        <div><table class="rec" style="width:60%">
+          <tr>
+            <td width="20%"><a href="https://www.mdpi.com/2306-5729/6/2/15">Paper</a></td>
+            <td width="20%"><a href="slides/atrisovic.pdf">Slides</a></td>
+            <td width="20%">Video Recording</td>
+          </tr>
+        </table></div>
     </td>
   </tr>
   <tr>
@@ -103,7 +147,7 @@ The webinar will be hosted on [Zoom](https://zoom.us/download). If you don’t a
 
 Check out our custom Zoom backgrounds: [default](imgs/zoom-bg-default.png), [inverted colors](imgs/zoom-bg-inverted.png), [sponged](imgs/zoom-bg-default-artsy1.png), [painted](imgs/zoom-bg-default-artsy2.png), [pink](imgs/zoom-bg-inverted-artsy.png), [crosshatch](imgs/zoom-bg-default-artsy3.png).
 
-The Virtual Cocktail Party will be hosted in [Gather Town](https://gather.town/), which will work directly from a web browser (though Google Chrome should be best-performing).
+The Virtual Cocktail Party will be hosted in [Gather Town](https://gather.town/), which will work directly from a web browser.
 
 # Contact
 

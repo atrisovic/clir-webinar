@@ -110,7 +110,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <small><i><a href="https://engagedri.ca/about-engage-dri/team/qian-zhang-senior-analyst-for-research-software-rs">Qian Zhang</a>, University of Waterloo & Digital Research Infrastructure Organization (NDRIO)</i></small>
         <div><table class="rec" style="width:50%">
           <tr>
-            <td width="25%"><a href="">Slides</a></td>
+            <td width="25%"><a href="slides/qianzhang.pdf">Slides</a></td>
             <td width="25%">Video Recording</td>
           </tr>
         </table></div>

@@ -97,7 +97,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         Harvard Library & the Institute for Quantitative Social Science, Harvard University</i></small>
         <div><table class="rec" style="width:50%">
           <tr>
-            <td width="25%">Slides</td>
+            <td width="25%"><a href="slides/kmika.pdf">Slides</a></td>
             <td width="25%">Video Recording</td>
           </tr>
         </table></div>

@@ -83,7 +83,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <small><i><a href="https://www.oreilly.com/pub/au/7953">Titus Winters</a>, Google</i></small>
         <div><table class="rec" style="width:50%">
           <tr>
-            <td width="25%">Slides</td>
+            <td width="25%"><a href="slides/twinters.pdf">Slides</a></td>
             <td width="25%">Video Recording</td>
           </tr>
         </table></div>

@@ -36,7 +36,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
           <tr>
             <td width="20%"><a href="keynote">Abstract</a></td>
             <td width="20%"><a href="slides/bludaescher.pdf">Slides</a></td>
-            <td width="20%">Video Recording</td>
+            <td width="20%"><a href="https://youtu.be/bnbCIcfkyVw">Video Recording</a></td>
           </tr>
         </table></div>
     </td>
@@ -49,7 +49,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <div><table class="rec" style="width:50%">
           <tr>
             <td width="25%"><a href="slides/mgooch.pdf">Slides</a></td>
-            <td width="25%">Video Recording</td>
+            <td width="25%"><a href="https://youtu.be/oMQsTcXtGbU">Video Recording</a></td>
           </tr>
         </table></div>
     </td>
@@ -62,7 +62,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <div><table class="rec" style="width:50%">
           <tr>
             <td width="25%"><a href="slides/drodriguez.pdf">Slides</a></td>
-            <td width="25%">Video Recording</td>
+            <td width="25%"><a href="https://youtu.be/BT9bNWFq8C0">Video Recording</a></td>
           </tr>
         </table></div>
     </td>
@@ -84,7 +84,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <div><table class="rec" style="width:50%">
           <tr>
             <td width="25%"><a href="slides/twinters.pdf">Slides</a></td>
-            <td width="25%">Video Recording</td>
+            <td width="25%"><a href="https://youtu.be/qpT4ZcO-e0c">Video Recording</a></td>
           </tr>
         </table></div>
     </td>
@@ -98,7 +98,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <div><table class="rec" style="width:50%">
           <tr>
             <td width="25%"><a href="slides/kmika.pdf">Slides</a></td>
-            <td width="25%">Video Recording</td>
+            <td width="25%"><a href="https://youtu.be/qMyTAeHJIkI">Video Recording</a></td>
           </tr>
         </table></div>
     </td>
@@ -111,7 +111,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
         <div><table class="rec" style="width:50%">
           <tr>
             <td width="25%"><a href="slides/qianzhang.pdf">Slides</a></td>
-            <td width="25%">Video Recording</td>
+            <td width="25%"><a href="https://youtu.be/yuJCz2_xflw">Video Recording</a></td>
           </tr>
         </table></div>
     </td>
@@ -125,7 +125,7 @@ All times Eastern Standard Time (EST) (UTC−05:00)
           <tr>
             <td width="20%"><a href="https://www.mdpi.com/2306-5729/6/2/15">Paper</a></td>
             <td width="20%"><a href="slides/atrisovic.pdf">Slides</a></td>
-            <td width="20%">Video Recording</td>
+            <td width="20%"><a href="https://youtu.be/9-1DVVbtm7o">Video Recording</a></td>
           </tr>
         </table></div>
     </td>

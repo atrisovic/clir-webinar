@@ -25,7 +25,14 @@ All times Eastern Standard Time (EST) (UTC−05:00)
 <tbody>
   <tr>
     <td>13:00 - 13:10</td>
-    <td>Welcome</td>
+    <td>Welcome
+      <div><table class="rec" style="width:50%">
+          <tr>
+            <td width="50%"><a href="https://www.youtube.com/watch?v=mdZhF6jPu1A&list=PLLFaNdapr61T1vSYlHhGM4B6MfFwaxXn4">Webinar Video Recordings Playlist</a>
+            </td>
+          </tr>
+        </table></div>
+    </td>
   </tr>
   <tr>
     <td>13:10 - 13:50</td>

@@ -165,7 +165,7 @@ This event is made possible with the support of the [Council on Library and Info
 <table id="wrapper" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td style="width:50%;">
-        <img src="https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2017/10/CLIR_red_w_wordmark.png" alt="https://www.clir.org" style="width:50%"></td>
+        <img src="imgs/CLIR_red_w_wordmark.png" alt="https://www.clir.org" style="width:50%"></td>
     <td style="width:50%;">
         <img src="https://sloan.org/storage/app/media/uploaded-files/Logo-2B-SMALL-Gold-Blue.png" alt="sloan.org" style="width:70%"></td>
   </tr>
